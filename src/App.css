@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  background-color: #f8f6f6;
+  width: 70%;
+  min-height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header{
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.strongTech{
+  color: blueviolet;
+  font-family: "Sofia", sans-serif;
+}
+.spanNaam{
+  color: goldenrod;
+  font-family: "Permanent Marker", cursive;
+}
+.start{
+  width: 20%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+  border-color:transparent ;
+  color: #f8f6f6;
+  font-size: 14px;
+  font-family: "Permanent Marker", cursive;
+  background:blueviolet  ;
+  text-transform: capitalize;
+}
+.score{
+  font-size: 14px;
+  font-family: "Sofia", sans-serif;
+  font-weight: bold;
+  text-align:left;
+  margin-left: 20px;
+}
+.marks{
+  color: darkorchid;
+}
+.next{
+  width: 15%;
+  padding: 5px;
+  color: honeydew;
+  font-family: "Sofia", sans-serif;
+  margin-bottom: 10px;
+  background-color: blueviolet;
+  border-radius: 10px;
+  border-color:transparent ;
+}
+@media screen and (min-width: 992px) {
+  .header {
+    width: 100%;
+  }
+  .App{
+    width: 100%;
+  }
+}
+
+
+
+
+
+

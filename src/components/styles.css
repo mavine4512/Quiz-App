@@ -1,0 +1,21 @@
+.number{
+    font-size: 16px;
+    font-family: "Sofia", sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.totalQuiz{
+    color: blueviolet;
+}
+.btn{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 6px;
+    border-color:transparent ;
+}
+.question{
+    font-size: 16px;
+    font-family: "Permanent Marker", cursive;
+}
