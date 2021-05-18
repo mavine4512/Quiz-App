@@ -1,3 +1,11 @@
+this project uses API from open trivia to generate it questions https://opentdb.com/api_config.php
+yarn 
+typeScript 
+React Js
+
+its running on port 3000 (https://localhost:3000)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
